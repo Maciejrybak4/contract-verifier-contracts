@@ -23,5 +23,4 @@ This repo is a part of the following:
    * (Sender: wallet1) Set source item code to `...?.fc`; then revert to original
    
    
-# License
-MIT
+Maciek.rybak21@op.pl
