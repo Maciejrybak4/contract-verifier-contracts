@@ -1,4 +1,4 @@
-# contract-verifier-contracts
+c4c9b4e9afb36e9d27335f92d774b13acb9aca31# contract-verifier-contracts
 
 A sources registry contract for registering a data url for a given code cell hash.
 The contract accepts messages from a designated verifier registry contract.
